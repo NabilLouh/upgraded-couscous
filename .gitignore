@@ -2,7 +2,7 @@
 *.exe
 *.deb
 *.app
-*dmg
+*.dmg
 
 logs/
 
